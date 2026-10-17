@@ -1,0 +1,8 @@
+{
+  "name": "kemp-eye-sales-funnel",
+  "version": "1.0.0",
+  "private": true,
+  "description": "KEMP EYE digital sales funnel with server-side Razorpay verification",
+  "engines": { "node": ">=20" },
+  "dependencies": { "pg": "^8.13.1" }
+}
